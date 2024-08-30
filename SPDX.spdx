@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+	PackageName: AISTAP_SIM
+	PackageHomePage: https://github.com/mit-ll/AISTAP-SIM
+	PackageOriginator: MIT Lincoln Laboratory
+	PackageCopyrightText: 2024 Massachusetts Institute of Technology
+	PackageLicenseDeclared: MIT
